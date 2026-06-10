@@ -50,13 +50,6 @@ IVF egg retrieval is done under sedation, so it's pain-free during the procedure
 The hormone injections are subcutaneous and brief — most women find them manageable.
 
 
-## Tests
-
-pytest tests/ -v
-
-Tests cover cosine similarity math, vector store search behaviour, and file loading — all without making API calls or downloading the embedding model.
-
-
 ## Assumptions
 
 - No conversation history is maintained. Each question is independent.
