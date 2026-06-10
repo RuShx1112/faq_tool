@@ -1,0 +1,4 @@
+groq>=0.30.0
+sentence-transformers>=3.0.0
+flask>=3.0.0
+pytest>=8.0.0
