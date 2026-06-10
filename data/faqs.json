@@ -1,0 +1,282 @@
+[
+  {
+    "question": "How long before the cycle should I do my blood tests?",
+    "answer": "Ideally 4–6 weeks before your planned start date so there is time to review results and adjust the plan if needed."
+  },
+  {
+    "question": "Is sperm washing different for donor samples?",
+    "answer": "Slightly different — donor samples are frozen, so they are thawed first, then washed using the same techniques as fresh samples."
+  },
+  {
+    "question": "Does a low sperm count always mean IVF is needed?",
+    "answer": "Not necessarily. If count is low but motility and morphology are good, IUI or natural pregnancy can still occur. If counts are very low or multiple parameters are abnormal, IVF with ICSI offers the best success rates."
+  },
+  {
+    "question": "Is IVF painful?",
+    "answer": "The egg retrieval process takes place under sedation and is therefore pain-free. The hormone injections are administered subcutaneously and last only a few minutes, so most women do not experience much pain from this process."
+  },
+  {
+    "question": "Is it worth doing IVF at 37 if my AMH is already low?",
+    "answer": "Often yes — AMH predicts quantity more than quality. Some women with low AMH retrieve fewer but high-quality eggs that lead to successful pregnancies. A consultation and baseline scan will give a clearer picture."
+  },
+  {
+    "question": "How will I know how my embryos are developing?",
+    "answer": "Your team will call with updates on Day 1 (fertilisation), Day 3 (cleavage), and Day 5 (blastocyst). You can also ask at any point."
+  },
+  {
+    "question": "Is frozen transfer safe for the embryo?",
+    "answer": "Yes. Vitrification survival rates for high-quality blastocysts are 90–98% at experienced centres. Multiple studies show babies born from frozen transfers have equivalent health outcomes to those from fresh cycles."
+  },
+  {
+    "question": "Can diet and supplements improve sperm health?",
+    "answer": "Yes. Antioxidant-based diets, exercise, stress management, quitting smoking, and reducing alcohol have all been found to be beneficial. Supplemental nutrients such as Coenzyme Q10, zinc, and carnitine appear to have some impact. The process takes about three months, since it takes three months to produce sperm."
+  },
+  {
+    "question": "Can I work during an IVF cycle?",
+    "answer": "Yes. Most patients continue work during stimulation. Egg retrieval day requires sedation and a companion; plan to rest that day and the next. After embryo transfer, light activity is fine, though many patients prefer rest for a few days."
+  },
+  {
+    "question": "Should I do IVF now or wait for the right time?",
+    "answer": "Every year after 35 reduces the reserve you are working with. If you are thinking about it, the best time to start the investigation process is now, even if treatment is delayed."
+  },
+  {
+    "question": "What is Time-Lapse Monitoring?",
+    "answer": "Some centres use time-lapse incubators (such as Embryoscope) that photograph embryos every few minutes without removing them from incubation. This gives embryologists more data to select the best embryo. Ask if this is available at your clinic. Traditional embryo selection has shown equivalent results compared to time-lapse monitoring."
+  },
+  {
+    "question": "Are these tests covered by insurance?",
+    "answer": "Coverage varies widely. Most ART procedures are not covered under standard Indian health insurance as of 2026, though diagnostic tests sometimes are. Check your policy."
+  },
+  {
+    "question": "How much longer does a frozen cycle take?",
+    "answer": "Approximately 3–5 additional weeks between retrieval and transfer — one menstrual cycle for the endometrium to reset, followed by 2–3 weeks of preparation."
+  },
+  {
+    "question": "What if no sperm can be found in the ejaculate?",
+    "answer": "The absence of sperm in the ejaculate does not necessarily imply azoospermia. Your specialist will carry out hormone tests and a testicular ultrasound scan. Provided there are sperm in the testicles, TESA and ICSI can be used to obtain sperm for IVF."
+  },
+  {
+    "question": "What if no eggs are retrieved or they don't fertilise?",
+    "answer": "There may be cases where there is no proper fertilisation or the egg retrieval was not successful. Your specialist will discuss your options for next time, such as ICSI or other approaches."
+  },
+  {
+    "question": "What are the risks of IVF pregnancy over 35?",
+    "answer": "Regardless of the type of pregnancy, the associated risks are higher in older women — namely gestational diabetes, hypertension, and a higher probability of Caesarean delivery."
+  },
+  {
+    "question": "Are there risks to ICSI that standard IVF does not have?",
+    "answer": "ICSI bypasses the natural process of sperm selection. Theoretically, this may pose some increased risk of genetic conditions. In practice, however, outcomes are comparable for most people. Your physician will advise you about this possibility if it applies to you."
+  },
+  {
+    "question": "Do I need to fast for these tests?",
+    "answer": "Some tests (fasting insulin, glucose) require an overnight fast. AMH, FSH, and the infection panel do not. Your clinic will advise you ahead of your appointment."
+  },
+  {
+    "question": "Is a frozen transfer more expensive than fresh?",
+    "answer": "Adding a frozen cycle does add some cost (vitrification, storage, FET preparation). But it is significantly less expensive than a full new stimulation cycle if a transfer is needed again."
+  },
+  {
+    "question": "Does washing reduce sperm count further?",
+    "answer": "As an example, a sample with 20 million sperm might yield 8–10 million motile sperm after washing. It may appear that the count has reduced, but the post-wash count reflects the actually useful sperm. This is why semen analysis is done before IVF/IUI — to ensure adequate post-wash numbers."
+  },
+  {
+    "question": "Can I improve my ovarian reserve?",
+    "answer": "There is no proven method to increase the number of eggs in your reserve. Some supplements (CoQ10, DHEA) may modestly improve the quality of available eggs, but they do not create new eggs. A healthy lifestyle and minimising environmental toxin exposure support the eggs you have."
+  },
+  {
+    "question": "Can I have an IVF cycle if I have PCOS and am at high OHSS risk?",
+    "answer": "Yes. A careful, lower-dose protocol with close monitoring and a freeze-all strategy makes IVF entirely feasible and safe for most women with PCOS."
+  },
+  {
+    "question": "Is hysteroscopy painful?",
+    "answer": "With only local anaesthetic or no anaesthetic, a thin-scope diagnostic hysteroscopy is typically easily tolerated. Operative procedures under sedation are more comfortable. Mild cramping afterwards is normal."
+  },
+  {
+    "question": "How long does the whole FET cycle take from start to blood test?",
+    "answer": "Typically 4–6 weeks total: 1–2 weeks for lining prep, 1 week for embryo thaw and transfer, then 2 weeks until the HCG test."
+  },
+  {
+    "question": "Is mini IVF a better option for poor responders?",
+    "answer": "Mini IVF is lower cost per cycle but produces fewer eggs. For poor responders who already have few eggs in a full cycle, mini IVF may not produce significantly fewer, and its reduced medication burden may suit some patients. The evidence does not show a clear overall advantage."
+  },
+  {
+    "question": "Can OHSS happen after a frozen embryo transfer?",
+    "answer": "Mild OHSS from stimulation can persist into a frozen cycle, but severe OHSS from hCG cannot occur in a freeze-all strategy because there is no early pregnancy hCG."
+  },
+  {
+    "question": "How long after hysteroscopy can I start IVF?",
+    "answer": "Before beginning stimulation or FET preparation, the endometrium is given a full natural cycle, usually lasting 4–6 weeks."
+  },
+  {
+    "question": "Is FET safer than fresh IVF?",
+    "answer": "FET avoids the OHSS risk of fresh cycles and allows time to optimise uterine condition. Many specialists now prefer FET for most patients. It is safer and more successful where there are medical reasons to do FET. In other cases, the outcomes of fresh and FET cycles are the same."
+  },
+  {
+    "question": "My AMH is 0.4, should I still try IVF?",
+    "answer": "An AMH of 0.4 indicates low reserve but does not mean zero eggs. Many women with AMH between 0.3 and 1.0 retrieve useful numbers of eggs with an optimised protocol. A consultation with an experienced specialist is the best next step."
+  },
+  {
+    "question": "How long does OHSS last?",
+    "answer": "If you are not pregnant, mild OHSS goes away 7–10 days following retrieval. Because pregnancy hCG causes the syndrome, symptoms may worsen for two to three weeks before improving if you become pregnant."
+  },
+  {
+    "question": "Do I still require a hysteroscopy if my scan appears normal?",
+    "answer": "Ultrasound misses approximately 20–30% of intrauterine pathologies that hysteroscopy identifies. Particularly for women with unexplained infertility or previous IVF failure, hysteroscopy remains worthwhile."
+  },
+  {
+    "question": "Can we do back-to-back FETs if the first fails?",
+    "answer": "Yes. After a negative test, you can often begin preparation for the next FET cycle within 1–2 weeks if physically and emotionally ready."
+  },
+  {
+    "question": "Does a mock transfer affect the actual cycle?",
+    "answer": "No. It takes place in the cycle before your IVF cycle (or at the start of your FET preparation). It has no impact on ovarian stimulation or embryo development."
+  },
+  {
+    "question": "I am 41, is it too late to try with my own eggs?",
+    "answer": "Not at all. Many women achieve pregnancies with their own eggs at 41. Your AMH and AFC are the best guide. A consultation and fresh investigation is always the right starting point."
+  },
+  {
+    "question": "Can I go back to work after a mock transfer?",
+    "answer": "Yes, immediately. There are no restrictions after a mock transfer other than mild paracetamol if you have cramping."
+  },
+  {
+    "question": "How do I emotionally prepare for the possibility of needing donor eggs?",
+    "answer": "Counselling with a fertility psychologist helps enormously. For many women, moving towards donor eggs proves to be an empowering experience, concentrating more on the gestation process and baby than on the genetic link."
+  },
+  {
+    "question": "Is a mock transfer done for every frozen transfer cycle too?",
+    "answer": "Not usually — only if there is a specific reason (first transfer, previous difficulty, change in clinician). It does not need to be repeated once your anatomy is documented."
+  },
+  {
+    "question": "What is the legal status of children born from donor eggs in India?",
+    "answer": "According to the ART Act 2021, a child resulting from the use of donor oocytes is regarded as the full biological offspring of the birth parents and not of the donors, who have no rights over the child."
+  },
+  {
+    "question": "What happens if I miss an injection?",
+    "answer": "Call the clinical team immediately if you miss a dose or inject at the wrong time. Do not double up without guidance. Missed injections can affect follicle development, but one missed dose rarely ruins a cycle — the team will advise the safest way to get back on track."
+  },
+  {
+    "question": "Is it safe to exercise during IVF injections?",
+    "answer": "Light walking is fine. High-impact exercise, heavy lifting, and vigorous activity are not recommended during stimulation, as the ovaries grow and become heavier, increasing the risk of torsion. Your specialist will advise you on activity levels specific to your cycle."
+  },
+  {
+    "question": "Can I switch from natural to medicated FET mid-cycle if monitoring isn't working?",
+    "answer": "Usually yes, but discuss it with your specialist. If an LH surge has not occurred by cycle day 18–20, switching to medicated is reasonable in a future cycle."
+  },
+  {
+    "question": "Is natural FET cheaper than medicated in the long run?",
+    "answer": "Yes, usually by ₹5,000–10,000. But if a natural FET gets cancelled and you cycle again, the cost difference disappears."
+  },
+  {
+    "question": "Is it worth travelling to a different city for IVF?",
+    "answer": "Only if your local clinics lack proper registration or if you have a specific diagnosis requiring specialist expertise. Good clinics exist in most major cities."
+  },
+  {
+    "question": "What if none of my embryos reach blastocyst stage?",
+    "answer": "This occurs in certain cycles, especially those with lower numbers of eggs collected or where egg quality is poor. A Day 3 transfer may be recommended by your specialist in future cycles."
+  },
+  {
+    "question": "How many IVF cycles should I do before switching clinics?",
+    "answer": "One or two failed cycles is not enough to switch, unless something clearly went wrong. Three or more failures with poor communication warrants a second opinion or clinic change."
+  },
+  {
+    "question": "Is it safe to keep embryos in culture until Day 5?",
+    "answer": "Yes. Modern laboratory conditions (pH, temperature, oxygen levels, CO2) closely replicate the environment of the fallopian tube. There is no evidence that extended culture harms viable embryos."
+  },
+  {
+    "question": "What if the sperm count on the day is very low?",
+    "answer": "A fresh backup sample or a previously frozen sample may be used. For severely low counts, TESA/PESA (surgical sperm retrieval) may be planned in parallel with egg retrieval."
+  },
+  {
+    "question": "Can all fertility clinics culture to Day 5?",
+    "answer": "Not all clinics have the laboratory capability for consistent Day 5 culture. Ask specifically about blastocyst rates and laboratory conditions when evaluating clinics."
+  },
+  {
+    "question": "Does sperm washing improve sperm quality?",
+    "answer": "It concentrates motile sperm; it does not repair DNA damage or morphological defects."
+  },
+  {
+    "question": "How is a sperm sample collected at the clinic?",
+    "answer": "By masturbation into a sterile container, collected at the clinic (preferred) or at home within 30–60 minutes of processing. A period of 2–3 days of abstinence before collection is recommended."
+  },
+  {
+    "question": "What does low sperm count actually mean?",
+    "answer": "Low sperm count (oligospermia) means fewer than 15 million sperm per millilitre. It reduces natural conception chances but does not eliminate them. With IUI or ICSI, many men with low counts go on to father children. A semen analysis will tell you exactly where you stand."
+  },
+  {
+    "question": "What is a varicocele and does it cause infertility?",
+    "answer": "A varicocele is a dilation of the scrotal veins, much like varicose veins. It can cause increased temperature in the testicles and impaired semen quality. If you are a candidate for surgery, varicocelectomy will likely improve your semen characteristics."
+  },
+  {
+    "question": "If I have azoospermia, do I need donor sperm?",
+    "answer": "Not necessarily. If the azoospermia is obstructive, sperm can often be retrieved via TESA for use in ICSI. Even in non-obstructive cases, a retrieval attempt is always recommended before moving to donor sperm. Your specialist will assess your specific situation before advising."
+  },
+  {
+    "question": "Is blastocyst transfer always better than Day 3 transfer?",
+    "answer": "Not always. Blastocyst transfer has higher per-transfer success rates, but if a patient has very few embryos, culturing to Day 5 risks having no embryos survive to transfer. Your embryologist and specialist will decide together based on your specific cycle."
+  },
+  {
+    "question": "Can all embryos reach the blastocyst stage?",
+    "answer": "No. Typically 40–60% of fertilised eggs reach blastocyst, depending on egg and sperm quality. Some cycles produce only 1–2 blastocysts from several fertilised eggs — this is normal and reflects natural selection."
+  },
+  {
+    "question": "What does the blastocyst grading mean?",
+    "answer": "Blastocysts are evaluated based on their expansion (1–6 scale) and the quality of two cell groups: the inner cell mass (ICM, which becomes the baby) and the trophectoderm (TE, which becomes the placenta). Grades like 4AA or 3AB indicate ICM/TE quality and expansion."
+  },
+  {
+    "question": "How long does a TESA procedure take?",
+    "answer": "TESA is typically a day-procedure performed under local anaesthesia or light sedation. The procedure itself takes 20–30 minutes. Recovery is usually 1–2 days of rest. Retrieved sperm can be used fresh in the same cycle or frozen for later use."
+  },
+  {
+    "question": "What is a 'good' hCG level after embryo transfer?",
+    "answer": "There is no single universal number. A positive test after a Day 5 transfer is any level above ~10–15 mIU/mL. What matters most is that it doubles appropriately in 48 hours. The clinical team will interpret your results in the context of your full cycle."
+  },
+  {
+    "question": "What is the difference between TESA and MicroTESE?",
+    "answer": "Standard TESA uses a fine needle to aspirate testicular tissue. MicroTESE is a more sophisticated surgical procedure done under an operating microscope, identifying specific areas of the testis where sperm production may be occurring. MicroTESE is typically recommended for non-obstructive azoospermia."
+  },
+  {
+    "question": "What does a slow-rising hCG mean?",
+    "answer": "A rise of less than 53% in 48 hours is considered slow and may indicate an ectopic pregnancy or a pregnancy unlikely to continue. Nonetheless, some slow-rising hCG pregnancies progress well. Your specialist will arrange close monitoring and an early scan if your hCG rise is sub-optimal."
+  },
+  {
+    "question": "Does azoospermia mean no sperm at all?",
+    "answer": "Azoospermia means no sperm in the ejaculate, but sperm may still be present in the testis. This is why a specialist evaluation and retrieval attempt is always recommended before concluding that fathering a biological child is impossible."
+  },
+  {
+    "question": "When should I expect to see a heartbeat on scan?",
+    "answer": "A heartbeat is usually visible on transvaginal ultrasound from around 6–7 weeks of pregnancy (approximately 4 weeks after a Day 5 transfer). If hCG is rising well, your scan will be scheduled at the appropriate time."
+  },
+  {
+    "question": "What is the ERA test and should I have it?",
+    "answer": "The ERA (Endometrial Receptivity Array) tests the expression of certain genes in the endometrium to identify your personal window of implantation. It is particularly useful after two or more failed transfers with good embryos. It requires a mock cycle with biopsy before the treatment transfer."
+  },
+  {
+    "question": "What is the success rate of IVF after 40 using my own eggs?",
+    "answer": "Using your own eggs, success rates typically range from 10–25% per cycle at age 40–42, declining further after 43. These are population averages; individual results depend on ovarian reserve and embryo quality. Your specialist will give you personalised projections based on your specific tests."
+  },
+  {
+    "question": "When is spotting after embryo transfer a good sign?",
+    "answer": "Spotting that is light pink to light brown in colour can be a sign of implantation if it appears 7–10 days after a Day 5 transfer. This is only an indication that might suggest implantation — only the blood test will confirm whether implantation occurred."
+  },
+  {
+    "question": "If PGT-A tests show embryos are normal, what else could cause failure?",
+    "answer": "If chromosomally normal embryos fail to implant, investigation should focus on endometrial receptivity (ERA), uterine anatomy (hysteroscopy), immune factors, and thrombophilia. Your specialist follows a structured protocol for recurrent implantation failure investigation."
+  },
+  {
+    "question": "Is donor egg IVF a good option after 40?",
+    "answer": "Yes. Donor egg IVF uses eggs from a younger woman (typically 21–30), which dramatically improves success rates — typically 50–65% per transfer. The pregnancy is carried by you. Many women over 40 choose donor egg IVF after one or two failed cycles with their own eggs."
+  },
+  {
+    "question": "Will spotting affect the outcome of my transfer?",
+    "answer": "No harm will be done to the embryo or the procedure itself due to spotting within this two-week period. The blood will not wash the embryo away, because it is well established within the walls of the uterus. During the two-week waiting period, continue taking your medication as prescribed."
+  },
+  {
+    "question": "Should I try naturally first or go straight to IVF at 42?",
+    "answer": "At 42, time is a significant factor. Most fertility specialists recommend moving to IVF investigation and treatment without prolonged natural attempts. Each month of delay reduces both ovarian reserve and egg quality. Speak to your specialist as early as possible for a personal evaluation."
+  },
+  {
+    "question": "What should I do if spotting gets heavier?",
+    "answer": "If the bleeding becomes heavy and is accompanied by severe lower abdominal pain, or if the bleeding turns into spotting similar to your regular monthly period, contact the clinical team immediately."
+  }
+]
