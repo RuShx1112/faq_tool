@@ -1,5 +1,5 @@
 """
-Optional: REST API wrapper around FAQBot.
+Optional: REST API wrapper around FAQBot
 
 Run:
     python api.py
