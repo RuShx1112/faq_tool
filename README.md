@@ -21,7 +21,7 @@
 
 git clone https://github.com/RuShx1112/faq_tool.git
 
-cd faq-tool
+cd faq_tool
 
 
 ### 2. Create and activate a virtual environment
