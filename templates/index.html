@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fertility FAQ Assistant</title>
+
+    <link rel="stylesheet"
+          href="{{ url_for('static', filename='style.css') }}">
+</head>
+
+<body>
+
+<div class="container">
+
+    <div class="card">
+
+        <h1>🤖 Fertility FAQ Assistant</h1>
+
+        <p class="subtitle">
+            Ask any fertility-related question and get AI-powered answers.
+        </p>
+
+        <form method="POST">
+
+            <input
+                type="text"
+                name="question"
+                placeholder="Ask your question..."
+                required
+            >
+
+            <button type="submit">
+                Ask AI
+            </button>
+
+        </form>
+
+        {% if answer %}
+
+        <div class="answer-box">
+
+            <h3>Answer</h3>
+
+            <p>{{ answer }}</p>
+
+        </div>
+
+        {% endif %}
+
+    </div>
+
+</div>
+
+</body>
+</html>
